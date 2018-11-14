@@ -7,7 +7,7 @@ As for the video I used Blender. the comment on this great video would be the fo
 this is my first attempt at animation on blender. The thing is that exported view does not match with the camera view, so I feel like I could do better, but another time.
 
 
-Link: https://youtu.be/MLIvTSKfy1w
+Link: https://youtu.be/MLIvTSKfy1w   OR click on the image!
 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=MLIvTSKfy1w
